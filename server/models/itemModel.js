@@ -1,3 +1,5 @@
+//represents a menu item in the database
+
 const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
